@@ -14,7 +14,7 @@ $ gem-uninstall-all
 
 ### ext
 
-This command is compliant with the interface provided by [naoty/ext](https://github.com/naoty/ext).
+This command is compliant with a convention provided by [naoty/ext](https://github.com/naoty/ext).
 
 ```
 $ go get github.com/naoty/ext
